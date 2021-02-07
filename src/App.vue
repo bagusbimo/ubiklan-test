@@ -7,7 +7,7 @@
     </header>
     <div class="mx-auto px-4 pt-4 max-w-screen-lg">
       <div class="flex justify-center">
-        <img src="../../assets/img/banner.png" />
+        <img src="../assets/img/banner.png" />
       </div>
       <div
         class="max-w-screen-xl px-4 pt-12 mx-auto sm:px-6 lg:pt-16 lg:px-8"

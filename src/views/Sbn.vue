@@ -80,7 +80,7 @@
                     </th>
                 </tr>
             </thead>
-            <tbody v-for="(content, i) in sbn.contents" class="bg-white divide-y divide-gray-200">
+            <tbody v-for="(content, i) in sbn.contents" :key="i" class="bg-white divide-y divide-gray-200">
                 <tr>
                 <td class="px-6 py-4 whitespace-nowrap">
                     {{ content.name }}

@@ -80,7 +80,6 @@ import InvoiceOptions from '@/data/invoice/invoice.json'
 import OsfOptions from '@/data/osf/osf.json'
 
 export default {
-  components: { ButtonRepo },
   data() {
     return {
       mainData: MainData,
