@@ -19,7 +19,7 @@
         </h2>
       </div>
       <router-view />
-      <div class="my-4" />
+      <div class="h-40" />
     </div>
   </main>
 </template>
